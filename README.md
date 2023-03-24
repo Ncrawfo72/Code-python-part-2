@@ -3,7 +3,7 @@ The mastery of code python in a series of five different projects
 This repo is a template VS code project for CircuitPython projects that automatically uploads your code to the board when you press F5. Requires F5Anything extension.
 
 ### Description
-
+Use a tempature sensor to take in the nearby tempature in Farhenhiet and display in onto and LCD with it saying wether it too cold or hot with the bas being 74 and allowing the tempature to be withinn a .5 range od degrees manually. 
 
 
 ### refelction
