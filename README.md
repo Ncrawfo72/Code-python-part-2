@@ -5,7 +5,12 @@ This repo is a template VS code project for CircuitPython projects that automati
 ### Description
 
 
+
 ### refelction
+This assignment was rather straight forward, but I still struggled with getting the tempature sensor to accurately read the tempature on to the LCD. I do have to thank kaz for the code as he was a heavy part in helping me with my code. With help from kaz I was able to get my LCD to accruately display my readings from the tempature sesnor.
+
+
+
 
 ```
 import board   #[Lines 1-8] Importing all Neccessary libraries to communicate with LCD
@@ -164,3 +169,5 @@ while True:
         photoICrosses += 1
     last_photoI = photoI.value
 ```
+
+doodoofart.com - chelsea
