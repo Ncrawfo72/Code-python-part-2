@@ -7,7 +7,7 @@ Use a tempature sensor to take in the nearby tempature in Farhenhiet and display
 
 
 ### refelction
-This assignment was rather straight forward, but I still struggled with getting the tempature sensor to accurately read the tempature on to the LCD. I do have to thank kaz for the code as he was a heavy part in helping me with my code. With help from kaz I was able to get my LCD to accruately display my readings from the tempature sesnor.
+This assignment was rather straight forward, but I still struggled with getting the tempature sensor to accurately read the tempature on to the LCD. I do have to thank Chatgpt for the code as he was a heavy part in helping me with my code. With help from kaz I was able to get my LCD to accruately display my readings from the tempature sesnor.
 
 ### Wiring
 
@@ -61,9 +61,11 @@ while True:
 
 
 ### Description
-
+For this assignment we had to take a Rotary endcoder and make it so when it was turned it would change the display on an LCD screen from "go" to "stop" depending on which way you spun the Ratary encoder and if you pressed down on it, it would change which led was lit up between a red, a yellow, and a green light.
 
 ### Reflection
+This assignment was the hardest of the three assignments and probably the trickesiest assignment I have had in Engineering in a while. I got a lot of help from Kaz and his code along with his assitance allowed me to actually finish the project. I was ble to get the wioring done on my own, but the code was very complicated and far beyond what I was gonna be able to do so again I have to thank Kaz for his help and code. Another thing worth noting is the picture of the wiring is for if the light on the Aurdino was to be used which I did not.
+
 
 
 ### Wiring
@@ -155,9 +157,11 @@ while True:
 
 
 ### Description
+One of the easiest assignments ever all you had to do was plug in a photointerupter into an arudino and run some pretty simple code. All the photointerrupter had to was do its simple basic job and detect when it was obstructed or not.
 
 
 ### Reflection
+This assignment quite litterally probably took me a total of ten minutes to complete. I thought it was pretty easy to do all thopugh I did take the code from River and used it as my code. As for the wiring I just had to search up what wire did what on a Photointerupter and was able to get it done with no real problem. This was a really easy project and a good enjd to these three assignments.
 
 
 ### Wiring
