@@ -11,7 +11,7 @@ This assignment was rather straight forward, but I still struggled with getting 
 
 ###Wiring
 
-![name](![trafficlight_circuit](https://user-images.githubusercontent.com/112981453/228335614-7be78345-abdf-4def-88ed-7ce31f4cf7ef.png)
+![trafficlight_circuit](https://user-images.githubusercontent.com/112981453/228335614-7be78345-abdf-4def-88ed-7ce31f4cf7ef.png)
 
 
 
