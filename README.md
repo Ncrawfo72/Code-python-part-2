@@ -11,7 +11,8 @@ This assignment was rather straight forward, but I still struggled with getting 
 
 ### Wiring
 
-![trafficlight_circuit](https://user-images.githubusercontent.com/112981453/228335614-7be78345-abdf-4def-88ed-7ce31f4cf7ef.png)
+![tmp36_circuit](https://user-images.githubusercontent.com/112981453/228340407-b3ad295e-59c6-4e54-b15b-df0bc159f9ae.png)
+
 
 
 ### Proof
@@ -66,6 +67,8 @@ while True:
 
 
 ### Wiring
+![trafficlight_circuit](https://user-images.githubusercontent.com/112981453/228340528-ce69e90e-a2c9-4738-b83b-3f310dc698a7.png)
+
 
 
 ### Proof
@@ -158,6 +161,8 @@ while True:
 
 
 ### Wiring
+![photointcircuit](https://user-images.githubusercontent.com/112981453/228340575-71563045-9ad7-4722-bcbf-26fe0f55e0b5.png)
+
 
 
 ### Proof
