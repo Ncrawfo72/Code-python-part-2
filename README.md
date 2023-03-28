@@ -170,7 +170,7 @@ This assignment quite litterally probably took me a total of ten minutes to comp
 
 
 ### Proof
-![name](https://github.com/Ncrawfo72/Code-python-part-2/blob/master/this%20one.gif)
+![name](https://github.com/Ncrawfo72/Code-python-part-2/blob/master/New%20video.mp4)
 
 ### Code 
 ```
