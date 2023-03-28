@@ -9,6 +9,10 @@ Use a tempature sensor to take in the nearby tempature in Farhenhiet and display
 ### refelction
 This assignment was rather straight forward, but I still struggled with getting the tempature sensor to accurately read the tempature on to the LCD. I do have to thank kaz for the code as he was a heavy part in helping me with my code. With help from kaz I was able to get my LCD to accruately display my readings from the tempature sesnor.
 
+###Wiring
+
+![name](![trafficlight_circuit](https://user-images.githubusercontent.com/112981453/228335614-7be78345-abdf-4def-88ed-7ce31f4cf7ef.png)
+
 
 
 
