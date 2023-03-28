@@ -17,8 +17,7 @@ This assignment was rather straight forward, but I still struggled with getting 
 ### Proof
 
 
-
-
+### Code
 ```
 import board   #[Lines 1-8] Importing all Neccessary libraries to communicate with LCD
 import time
@@ -60,9 +59,20 @@ while True:
 
 
 
+### Description
+
+
+### Reflection
+
+
+### Wiring
+
+
+### Proof
 
 
 
+### Code
 ```
 # Rotary Encodare light thingksf;ja
 import time
@@ -141,17 +151,19 @@ while True:
 
 
 
+### Description
 
 
+### Reflection
 
 
+### Wiring
 
 
+### Proof
 
 
-
-
-
+### Code 
 ```
 #thing with photointerrupter
 import time
