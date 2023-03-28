@@ -23,7 +23,7 @@ import board   #[Lines 1-8] Importing all Neccessary libraries to communicate wi
 import time
 from lcd.lcd import LCD
 from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
-from digitalio import DigitalInOut, Direction, Pull
+from digitalio import DigitalInOut, Direction, Pull 
 import board
 import analogio
 
