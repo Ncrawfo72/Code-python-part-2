@@ -16,7 +16,7 @@ This assignment was rather straight forward, but I still struggled with getting 
 
 
 ### Proof
-
+![name](https://github.com/Ncrawfo72/Code-python-part-2/blob/master/this%20one%202.gif)
 
 ### Code
 ```
